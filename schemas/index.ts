@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import workinghour from './workinghour'
+
+export const schemaTypes = [workinghour]
