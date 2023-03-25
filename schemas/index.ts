@@ -1,3 +1,3 @@
 import workinghour from './workinghour'
-
-export const schemaTypes = [workinghour]
+import navbar from './navbar'
+export const schemaTypes = [workinghour, navbar]
