@@ -7,6 +7,7 @@ import reviews from './reviews'
 import employees from './employees'
 import galleryphoto from './galleryphoto'
 import landingphotos from './landingphotos'
+import footer from './footer'
 
 export const schemaTypes = [
   workinghour,
@@ -17,4 +18,5 @@ export const schemaTypes = [
   navbar,
   galleryphoto,
   landingphotos,
+  footer,
 ]
