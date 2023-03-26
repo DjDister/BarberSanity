@@ -8,6 +8,7 @@ import employees from './employees'
 import galleryphoto from './galleryphoto'
 import landingphotos from './landingphotos'
 import footer from './footer'
+import landingdata from './landingdata'
 
 export const schemaTypes = [
   workinghour,
@@ -19,4 +20,5 @@ export const schemaTypes = [
   galleryphoto,
   landingphotos,
   footer,
+  landingdata,
 ]
