@@ -21,8 +21,12 @@ export default {
     {
       name: 'ourTeamTitle2',
       title: 'Our Team Title 2',
-
       type: 'string',
+    },
+    {
+      name: 'workinghoursImageBackground',
+      title: 'Working Hours Image Background',
+      type: 'image',
     },
   ],
 }
